@@ -22,6 +22,3 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)<br>
-
-# <h3>📊 Github Stats:</h3>
-![Paniolito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paniolito&show_icons=true&theme=holi)
